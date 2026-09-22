@@ -1,0 +1,14 @@
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Forms.FrmDanhMuc.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Forms.FrmDocGia.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Forms.FrmMuonTra.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Forms.FrmSach.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Forms.FrmThongKe.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\LIEN NGUYEN\source\repos\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
