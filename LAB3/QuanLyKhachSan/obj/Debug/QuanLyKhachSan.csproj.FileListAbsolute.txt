@@ -1,0 +1,13 @@
+D:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.FrmDanhMuc.resources
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.FrmDatPhong.resources
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.FrmPhongTienNghi.resources
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.config
