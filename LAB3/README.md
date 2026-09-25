@@ -20,7 +20,24 @@
 LAB 3 xây dựng ứng dụng **Quản lý khách sạn** bằng C# WinForms, kết nối cơ sở dữ liệu SQL Server.
 
 Các chức năng đã thực hiện:
-
+- Quản lý khu vực
+- Quản lý nhân viên
+- Quản lý loại tiện nghi
+- Quản lý tiện nghi
+- Quản lý phòng
+- Quản lý dịch vụ
+- Quản lý quy định đền bù
+- Quản lý khách hàng
+- Đặt phòng
+- Nhận phòng
+- Quản lý người lưu trú
+- Lắp đặt/luân chuyển tiện nghi
+- Ghi nhận dịch vụ
+- Lập phiếu đền bù
+- Lập hóa đơn
+- Thanh toán
+- Trả phòng
+- Thống kê
 
 ## 4. Cấu trúc chính của chương trình
 
