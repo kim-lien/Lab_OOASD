@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DuBV/HOMPtQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LIEN NGUYEN\\Lab_OOASD\\LAB4\\eSHOPPING\\eSHOPPING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIEN NGUYEN\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.12\\system.configuration.configurationmanager.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
