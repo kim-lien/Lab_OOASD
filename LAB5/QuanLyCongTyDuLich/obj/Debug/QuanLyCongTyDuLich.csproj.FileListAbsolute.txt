@@ -1,0 +1,8 @@
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe.config
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.AssemblyReference.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB5\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe.config
