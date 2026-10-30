@@ -1,0 +1,111 @@
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.exe
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll.config
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.deps.json
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.runtimeconfig.json
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.pdb
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.csproj.AssemblyReference.cache
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.AssemblyInfoInputs.cache
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.AssemblyInfo.cs
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.csproj.CoreCompileInputs.cache
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHo.2A755CC2.Up2Date
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\refint\QuanLyHoSoBenhAn.dll
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.pdb
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.genruntimeconfig.cache
+C:\Users\oggy2\Downloads\QuanLyHoSoBenhAn_VS2022\obj\Debug\net8.0-windows\ref\QuanLyHoSoBenhAn.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.exe
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll.config
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.deps.json
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.runtimeconfig.json
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\QuanLyHoSoBenhAn.pdb
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.csproj.AssemblyReference.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyBenhAn.MainForm.resources
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.csproj.GenerateResource.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.AssemblyInfoInputs.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.AssemblyInfo.cs
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.csproj.CoreCompileInputs.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.sourcelink.json
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHo.2A755CC2.Up2Date
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\refint\QuanLyHoSoBenhAn.dll
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.pdb
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\QuanLyHoSoBenhAn.genruntimeconfig.cache
+C:\Users\LIEN NGUYEN\Lab_OOASD\LAB6\QuanLyHoSoBenhAn\obj\Debug\net8.0-windows\ref\QuanLyHoSoBenhAn.dll
